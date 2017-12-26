@@ -2,7 +2,7 @@
 name = "dataportal"
 version = "0.0.0"
 authors = ["Keiji Yoshida <kjmrknsn@gmail.com>"]
-description = ""
+description = "Data Portal"
 license = "MIT/Apache-2.0"
 
 [dependencies]
